@@ -3,7 +3,7 @@ Syfe Assessment Repo
 
 
 # folder structure
-#### .
+#### ├─ .
 #### ├─ charts/wordpress-chart/        # helm chart
 #### ├─ docker/wordpress/Dockerfile
 #### ├─ docker/mysql/Dockerfile
